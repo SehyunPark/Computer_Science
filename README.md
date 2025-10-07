@@ -7,6 +7,7 @@ Things I've Learned
   
 | No. | Topic | Keywords | LINK | Date Posted |
 | :--------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| MFC002 | 🔥Ch01. Window Programming Fundamentals🔥(2/3) - SDK | SDK Analysis <br> SDK Development Process | [▶️](https://sh-avid-learner.tistory.com/393) | 25/10/07 |
 | MFC001 | 🔥Ch01. Window Programming Fundamentals🔥(1/3) - Intro | OS Attributes <br> App Attributes / Development | [▶️](https://sh-avid-learner.tistory.com/392) | 25/10/06 |
 
 </div>
